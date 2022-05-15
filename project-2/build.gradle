@@ -1,0 +1,6 @@
+
+
+
+dependencies {
+    compileOnly 'org.hyperledger.fabric-chaincode-java:fabric-chaincode-shim:2.+'
+}
